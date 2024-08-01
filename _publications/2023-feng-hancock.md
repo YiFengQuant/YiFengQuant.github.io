@@ -8,4 +8,4 @@ link: 'https://www.google.com/books/edition/Handbook_of_Structural_Equation_Mode
 category: "methodological"
 ---
 
-**Feng, Y.**, & Hancock, G. R. (2023). SEM as a framework for power analysis*.* In R. H. Hoyle (Ed.), *Handbook of structural equation modeling* (2^nd^ ed.). The Guilford Press.
+**Feng, Y.**, & Hancock, G. R. (2023). SEM as a framework for power analysis*.* In R. H. Hoyle (Ed.), *Handbook of structural equation modeling* (2nd ed.). The Guilford Press.
