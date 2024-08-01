@@ -11,6 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>Methodological Research</h2>
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.category == "methodological" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Applied Research</h2>
+{% for post in site.publications reversed %}
+  {% if post.category == "applied" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
