@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  headshot-cut3.jpg
+og_image                 :  headshot-cut.jpg
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yi Feng"
-  avatar           : "headshot-cut3.jpg"
+  avatar           : "headshot-cut.jpg"
   bio              : "Assistant Professor in Quantitative Psychology"
   location         : "CA, US"
   employer         :
